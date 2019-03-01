@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700');
+
+canvas {
+    margin: 100px auto 20px auto;
+    border: 1px solid black;
+    background-image: url("../jalan.jpg");
+}
+
+body {
+    text-align: center;
+    background-color: grey;
+    font-family: 'Muli';
+}
